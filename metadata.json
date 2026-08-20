@@ -1,0 +1,6 @@
+{
+  "name": "Mumma",
+  "description": "Offline-First AI Companion and Study Partner with Voice and Structured Memory",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
